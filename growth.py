@@ -11,7 +11,7 @@ st.write("A growth mindset is the belief that your abilities and intelligence ca
 
 
 st.header("💡 Today's Growth Mindset Quote?")
-st.write("''success is a final, failure is not fatal: it is courage to continue that counts.''-winston churchill")
+st.write("''success is not a final, failure is not fatal: it is courage to continue that counts.''-winston churchill")
 
 
 st.header( "💫  what's your challenge today?")
@@ -51,4 +51,4 @@ else:
 
 st.write("- - -")
 ("🚀 Remember, your educational journey is about developing your intelligence, not just proving it. Embrace your potential and never stop striving to be better!")
-st.write("**created bi Isha khan**")
+st.write("**created by Isha khan**")
